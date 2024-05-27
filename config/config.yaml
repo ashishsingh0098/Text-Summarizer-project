@@ -1,0 +1,7 @@
+artificats_root : artifacts
+
+data_ingestion:
+root_dir : artifacts/data_ingestion
+source_URL : https://github.com/ashishsingh0098/Text-Summarizer-project/raw/main/samsum-text%20summarization%20dataset.zip
+local_data_file : artifact/data_ingestion/data.zip
+unzip_dir : artifacts/data_ingestion
